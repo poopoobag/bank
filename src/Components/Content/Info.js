@@ -5,4 +5,4 @@ const Info = props => {
     </div>
 }
 
-export default Info
+export default Infoszas

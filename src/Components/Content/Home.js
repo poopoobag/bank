@@ -15,7 +15,7 @@ const Home = () => {
                         <div className='mt-3'>
                             <h1 className='text-md font-bold mb-5'>Main Account</h1>
                             <div className='flex font-light'>
-                                <p>HARILTSAH/</p>
+                                <p>HARILTSAH /</p>
                                 <p>IRGED/</p>
                                 <p>MNT</p>
                             </div>
